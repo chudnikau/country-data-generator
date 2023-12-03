@@ -1,0 +1,1 @@
+Generates custom data of countries and cities from JSON format
